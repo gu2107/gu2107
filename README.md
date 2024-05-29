@@ -6,7 +6,7 @@ Meu nome é Gustavo Vieira
  - Estou me desenvolvendo na *Linguagem JavaScript*
  - Ultilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-### Voce pode entrar em contato comigo
+### Voce pode entrar em contato comigo 📫
 
 gusouto21@gmail.com
 
