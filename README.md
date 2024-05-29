@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil👋
+### Boas vindas ao meu perfil 💙💙
 
 Meu nome é Gustavo Vieira
 
@@ -10,5 +10,4 @@ Meu nome é Gustavo Vieira
 
 gusouto21@gmail.com
 
-@ogusta.vs
-![]<div class="tenor-gif-embed" data-postid="18075952005016085494" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/emy-d%C3%A9part-gif-18075952005016085494">Emy Départ GIF</a>from <a href="https://tenor.com/search/emy+d%C3%A9part-gifs">Emy Départ GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media1.tenor.com/m/-tquk_v-Y_YAAAAC/emy-d%C3%A9part.gif" alt="Emy Départ GIF - Emy Départ GIFs"/>
